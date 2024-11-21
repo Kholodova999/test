@@ -26,7 +26,7 @@ class Calculator
 
             case '-':
                 result = num1 - num2;
-                Console.WriteLine($"{num1} + {num2} = {result}");
+                Console.WriteLine($"{num1} - {num2} = {result}");//поменяли знак на -
                 break;
 
             case '*':
